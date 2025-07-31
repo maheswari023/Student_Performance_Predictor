@@ -4,15 +4,14 @@ This machine learning project predicts the final grade of students based on vari
 
 ---
 
-## 📁 Project Structure
 
-student-performance/
-├── student.csv # Dataset used for training
-├── student_model.pkl # Trained machine learning model
-├── train.py # Script to train and save the model
-├── app.py # Main app file (Streamlit-based UI)
-├── requirements.txt # List of Python dependencies
-└── README.md # Project documentation
+## 📁 Files
+
+- train_model.py – Script to train and export the model
+- model.pkl – Trained ML model
+- StudentsPerformance.csv – Dataset used for training
+- app.py – Streamlit app to take user input and show prediction
+
 ---
 
 ## 💡 Features
